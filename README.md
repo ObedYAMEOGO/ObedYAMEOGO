@@ -4,7 +4,7 @@ I'm **Obed**, a **Machine Learning Engineer** based in India.
 
 I build production-ready AI systems that deliver real-world value. I specialize in taking models from prototype to production, with a focus on reliability, low latency, orchestration, and operational excellence.
 
-I'm also a fast learner who enjoys mastering new technologies and adapting quickly to the needs of each project.
+I'm also a fast learner who adapts quickly to new technologies, depending on the needs of each project.
 
 I built [thehatbuddy.co.in](https://www.thehatbuddy.co.in/) to showcase my machine learning projects, AI/ML technical articles, and curated learning resources for aspiring practitioners.
 
