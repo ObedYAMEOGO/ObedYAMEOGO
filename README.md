@@ -16,18 +16,15 @@ Beyond work, I enjoy solving problems in my community where my skills can make a
 
 If you'd like to learn more about my work, feel free to check out my pinned projects!
 
-## 🙋 Personal Facts
+## 🙋 Facts About Me
 
 - ✝️ Christian
+- 👒 Most people know me online as **TheHatBuddy**.
 - 🐈 Cat lover
 - 🌿 Introvert who values quiet time
-
-## 🎉 Fun Facts
-
 - 🚫 I don't drink coffee, tea, or alcohol.
 - 🎸 I enjoy playing bass guitar.
 - 🍳 I love cooking.
 - 📚 I enjoy reading.
 - 🎬 I love watching movies.
-- 👒 Nickname: **TheHatBuddy**.
 
