@@ -4,7 +4,7 @@ I'm **Obed**, a **Machine Learning Engineer** based in India.
 
 I build production-ready AI systems that deliver real-world value. I specialize in taking models from prototype to production, with a focus on reliability, low latency, orchestration, and operational excellence.
 
-I'm also a fast learner who enjoys picking up new technologies quickly and adapting to whatever a project requires.
+I'm also a fast learner who enjoys mastering new technologies and adapting quickly to the needs of each project.
 
 I built my portfolio website to showcase my machine learning projects, AI/ML technical articles, and curated learning resources for aspiring practitioners.
 
@@ -14,15 +14,7 @@ Beyond work, I enjoy solving problems in my community where my skills can make a
 
 ## 💻 Tech Stack
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Python
-- SQL
-- MLOps
-- Docker
-- Flask
-- PORN Stack etc ...
+**Machine Learning** • **NLP** • **Computer Vision** • **Python** • **SQL** • **MLOps** • **Docker** • **Flask** • **Next.js** • **PyTorch** • **TensorFlow** • **scikit-learn**
 
 If you'd like to learn more about my work, feel free to check out my pinned projects!
 
@@ -39,3 +31,4 @@ If you'd like to learn more about my work, feel free to check out my pinned proj
 - 🍳 I love cooking.
 - 📚 I enjoy reading.
 - 🎬 I love watching movies.
+
