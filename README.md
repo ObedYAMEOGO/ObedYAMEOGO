@@ -19,7 +19,7 @@ If you'd like to learn more about my work, feel free to check out my pinned proj
 ## 🙋 Facts About Me
 
 - ✝️ Christian
-- 👒 Most people know me online as **TheHatBuddy**.
+- 👒 Nickname: **TheHatBuddy**.
 - 🐈 Cat lover
 - 🚫 I don't drink coffee, tea, or alcohol.
 - 🎸 I enjoy playing bass guitar.
