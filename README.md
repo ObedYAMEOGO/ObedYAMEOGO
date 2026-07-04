@@ -14,7 +14,7 @@ Beyond work, I enjoy solving problems in my community where my skills can make a
 
 ## 💻 Tech Stack
 
-**Machine Learning** • **NLP** • **Computer Vision** • **Python** • **SQL** • **MLOps** • **Docker** • **Flask** • **Next.js** • **PyTorch** • **TensorFlow** • **scikit-learn**
+**Python** • **SQL** • **MLOps** • **ZenML** • **MLFlow** • **Docker** • **Flask** • **Next.js** • **PyTorch** • **TensorFlow** • **scikit-learn** ...
 
 If you'd like to learn more about my work, feel free to check out my pinned projects!
 
