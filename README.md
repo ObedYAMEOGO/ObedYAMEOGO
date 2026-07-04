@@ -6,7 +6,7 @@ I build production-ready AI systems that deliver real-world value. I specialize 
 
 I'm also a fast learner who enjoys mastering new technologies and adapting quickly to the needs of each project.
 
-I built my **portfolio website** [thehatbuddy.co.in](https://www.thehatbuddy.co.in/) to showcase my machine learning projects, AI/ML technical articles, and curated learning resources for aspiring practitioners.
+I built [thehatbuddy.co.in](https://www.thehatbuddy.co.in/) to showcase my machine learning projects, AI/ML technical articles, and curated learning resources for aspiring practitioners.
 
 Beyond work, I enjoy solving problems in my community where my skills can make a difference. For example, I recently built a lightweight offline hymn app for my church, allowing members to access their favorite hymns without an internet connection or physical hymn books.
 
