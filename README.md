@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Obed**, a **Machine Learning Engineer** based in India.
+I'm **Obed**, a **Machine Learning Engineer**.
 
 I build production-ready AI systems that deliver real-world value. I specialize in taking models from prototype to production, with a focus on reliability, low latency, orchestration, and operational excellence.
 
