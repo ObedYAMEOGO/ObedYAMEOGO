@@ -21,7 +21,6 @@ If you'd like to learn more about my work, feel free to check out my pinned proj
 - ✝️ Christian
 - 👒 Most people know me online as **TheHatBuddy**.
 - 🐈 Cat lover
-- 🌿 Introvert who values quiet time
 - 🚫 I don't drink coffee, tea, or alcohol.
 - 🎸 I enjoy playing bass guitar.
 - 🍳 I love cooking.
