@@ -19,7 +19,7 @@ I also build practical tools for real users — for example, recently, I develop
 - MLOps & infra: MLOps, MLflow, ZenML, Docker, CI/CD, Infrastructure, PORN Stack  
 - Engineering & platform: Git, GitHub, Next.js
 
-## Fun Facts
+## Fun & Personal Facts
 - Christian
 - Cat lover
 - Introvert who values quiet time
