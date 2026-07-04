@@ -31,5 +31,5 @@ If you'd like to learn more about my work, feel free to check out my pinned proj
 - 🍳 I love cooking.
 - 📚 I enjoy reading.
 - 🎬 I love watching movies.
-- 👒 Nickname **TheHatBuddy**.
+- 👒 Nickname: **TheHatBuddy**.
 
