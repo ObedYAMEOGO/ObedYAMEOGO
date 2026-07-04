@@ -1,4 +1,3 @@
-```md id="r5mxhy"
 # Hey there! 👋
 
 I'm **Obed**, a **Machine Learning Engineer** based in India.
@@ -40,4 +39,3 @@ If you'd like to learn more about my work, feel free to check out my pinned proj
 - 🍳 I love cooking.
 - 📚 I enjoy reading.
 - 🎬 I love watching movies.
-```
