@@ -2,7 +2,7 @@
 
 I'm **Obed**, a **Machine Learning Engineer**.
 
-I build production-ready AI systems that deliver real-world value. I specialize in taking models from prototype to production, with a focus on reliability, low latency, orchestration, and operational excellence.
+I build production-ready AI/ML systems that deliver real-world value. I specialize in taking models from prototype to production, with a focus on reliability, low latency, orchestration, and operational excellence.
 
 I'm also a fast learner who adapts quickly to new technologies, depending on the needs of each project.
 
