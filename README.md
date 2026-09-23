@@ -12,7 +12,7 @@ Beyond work, I enjoy solving problems in my community where my skills can make a
 
 ## 💻 Tech Stack
 
-**Python** • **SQL** • **MLOps** • **ZenML** • **MLFlow** • **Docker** • **Flask** • **Next.js** • **PyTorch** • **TensorFlow** • **scikit-learn** • **Flutter** • **HTML/CSS** • **DevOps** ...
+**Python** • **SQL** • **MLOps** • **ZenML** • **MLFlow** • **Docker** • **Flask** • **Next.js** • **PyTorch** • **TensorFlow** • **scikit-learn** • **Flutter** • **HTML/CSS** ...
 
 If you'd like to learn more about my work, feel free to check out my pinned projects!
 
